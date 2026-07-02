@@ -25,7 +25,7 @@ job to do. Scroll through it like you'd flip through a case folder.
 | 🔴 `#stark` | **IRON MAN** | Hero intro, HUD-framed portrait, ID card, social links |
 | 🔵 `#cap` | **CAPTAIN AMERICA** | Skills & abilities, rated by proficiency level |
 | 🟢 `#hulk` | **HULK** | Mission Files — real, shipped projects |
-| 🔴🔵 `#resume` | **SPIDER-MAN** | Resume / CV, downloadable |
+| 🔴 `#resume` | **SPIDER-MAN** | Resume / CV, downloadable |
 | 🟡 `#thor` | **THOR** | Recruitment — how to reach me |
 
 ---
@@ -67,7 +67,7 @@ open index.html          # macOS
 | **Netlify** | Drag `index.html` onto [app.netlify.com/drop](https://app.netlify.com/drop), or connect this repo for auto-deploy on push |
 
 
-> ⚠️ File **must** be named `index.html` at the repo root for hosts to serve it at your base URL.
+
 
 ---
 
