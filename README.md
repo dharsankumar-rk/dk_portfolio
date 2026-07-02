@@ -50,21 +50,11 @@ rotated live via `requestAnimationFrame`. Respects `prefers-reduced-motion`.
 
 This is a static single file — no build pipeline required.
 
-```bash
-# 1. Clone
-git clone https://github.com/dharsankumar-rk/portfolio.git
-cd portfolio
-
-# 2. That's it. Open it.
-open index.html          # macOS
-# or just double-click index.html
-```
-
 **Deploying live:**
 
 | Host | Steps |
 |---|---|
-| **Netlify** | Drag `index.html` onto [app.netlify.com/drop](https://app.netlify.com/drop), or connect this repo for auto-deploy on push |
+| **Netlify** |
 
 
 
