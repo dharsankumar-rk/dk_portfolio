@@ -52,8 +52,8 @@ This is a static single file — no build pipeline required.
 
 **Deploying live:**
 
-| Host | Steps |
-|---|---|
+| Host |
+|---|
 | **Netlify** |
 
 
