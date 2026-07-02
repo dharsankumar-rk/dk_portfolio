@@ -65,8 +65,7 @@ open index.html          # macOS
 | Host | Steps |
 |---|---|
 | **Netlify** | Drag `index.html` onto [app.netlify.com/drop](https://app.netlify.com/drop), or connect this repo for auto-deploy on push |
-| **GitHub Pages** | Settings → Pages → Deploy from branch `main`, folder `/root` |
-| **Vercel** | Import this repo at [vercel.com/new](https://vercel.com/new) — no framework detection needed |
+
 
 > ⚠️ File **must** be named `index.html` at the repo root for hosts to serve it at your base URL.
 
@@ -98,6 +97,5 @@ open index.html          # macOS
 
 **FILE STATUS: ACTIVE — CLEARANCE LEVEL 4 — DHARSANKUMAR R.K.**
 
-*Assembling a team? Send word.*
 
 </div>
